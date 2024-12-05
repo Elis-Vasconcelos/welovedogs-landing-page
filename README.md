@@ -21,7 +21,7 @@ O projeto **WeLoveDogs** é uma aplicação web estática multipágina, desenvol
 
 ![Tela3](screenshots/blog.png?raw=true)
 
-### Contato:** 
+### Contato:
 - Permite que os visitantes entrem em contato com o grupo, oferecendo um formulário de contato.
 
 ![Tela4](screenshots/contato.png)
