@@ -4,12 +4,23 @@
 
 O projeto **WeLoveDogs** é uma aplicação web estática multipágina, desenvolvida utilizando HTML e CSS. Ela tem como objetivo apresentar o grupo social **WeLoveDogs**, com informações sobre o grupo e um blog para os visitantes interagirem. A aplicação é composta por quatro páginas: **Home**, **Quem Somos**, **Blog** e **Contato**. A navegação entre as páginas é feita através de um menu intuitivo, garantindo uma experiência de usuário simples e direta.
 
-## Funcionalidades
+## Funcionalidades em prática
 
 - **Home:** Apresenta uma visão geral sobre o grupo social **WeLoveDogs**, com links rápidos para as outras páginas.
+
+![Tela1](screenshots/home.png?raw=true)
+
 - **Quem Somos:** Exibe informações detalhadas sobre o grupo, sua missão e história.
+
+![Tela2](screenshots/quem-somos.png?raw=true)
+
 - **Blog:** Apresenta posts sobre o grupo e suas atividades, com conteúdo dinâmico e interessante para os visitantes.
+
+![Tela3](screenshots/blog.png?raw=true)
+
 - **Contato:** Permite que os visitantes entrem em contato com o grupo, oferecendo um formulário de contato.
+
+![Tela4](screenshots/contato.png)
 
 ## Requisitos Implementados
 
@@ -18,25 +29,6 @@ O projeto **WeLoveDogs** é uma aplicação web estática multipágina, desenvol
 - A logo da página redireciona para a **Home**.
 - O layout é responsivo e ajustado para diferentes tamanhos de tela.
 - Animações adicionadas, como efeitos de **hover** nos links, proporcionando uma experiência de navegação mais interativa.
-
-## Aplicação em funcionamento
-
-### Home
-
-![Tela1](screenshots/home.png)
-
-### Quem Somos
-
-![Tela2](screenshots/quem-somos.png)
-
-### Blog
-
-![Tela3](screenshots/blog.png)
-
-### Contato
-
-![Tela4](screenshots/contato.png)
-
 
 ## Como Usar
 
